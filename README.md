@@ -1,6 +1,6 @@
 ![MasterHead](https://miro.medium.com/max/1024/1*OohqW5DGh9CQS4hLY5FXzA.png)
 <h1 align="center">Hi 👋, I'm subin</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate web developer from India</h3>
 <img align="right" alt="Codeing" width="400" src="https://i.giphy.com/media/40cxBsgqqwb65M5ivp/giphy.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subin4693&label=Profile%20views&color=0e75b6&style=flat" alt="subin4693" /> </p>
